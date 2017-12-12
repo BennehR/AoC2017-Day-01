@@ -1,0 +1,6 @@
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Advent of Code 2017 - 01\Advent of Code 2017 - 01\bin\Debug\Advent of Code 2017 - 01.exe
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Advent of Code 2017 - 01\Advent of Code 2017 - 01\bin\Debug\Advent of Code 2017 - 01.pdb
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Advent of Code 2017 - 01\Advent of Code 2017 - 01\obj\Debug\Advent of Code 2017 - 01.csprojResolveAssemblyReference.cache
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Advent of Code 2017 - 01\Advent of Code 2017 - 01\obj\Debug\Advent of Code 2017 - 01.exe
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Advent of Code 2017 - 01\Advent of Code 2017 - 01\obj\Debug\Advent of Code 2017 - 01.pdb
+C:\Users\ben.rendall\Drive Documents\Visual Studio\Projects\Advent of Code 2017\Advent of Code 2017 - 01\Advent of Code 2017 - 01\bin\Debug\Advent of Code 2017 - 01.exe.config
